@@ -1,0 +1,15 @@
+release/adminwindow.o
+release/applointmentemloyeewindow.o
+release/clientwindow.o
+release/main.o
+release/loginwindow.o
+release/registrationwindow.o
+release/requestdescriptionwindow.o
+release/workerwindow.o
+release/moc_adminwindow.o
+release/moc_applointmentemloyeewindow.o
+release/moc_clientwindow.o
+release/moc_loginwindow.o
+release/moc_registrationwindow.o
+release/moc_requestdescriptionwindow.o
+release/moc_workerwindow.o
